@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vikyaditama23148-rgb.github.io/Pulau-Angka-Matematika/sitemap.xml
